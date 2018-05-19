@@ -1,0 +1,8 @@
+[user]
+	name = YOUR_NAME
+	email = YOUR_NAME@g.softbank.co.jp
+[color]
+	ui = true
+
+[alias]
+	graph=log --graph --date-order -C -M --pretty=format:\"<%h> %ad [%an] %Cgreen%d%Creset %s\" --all --date=short
