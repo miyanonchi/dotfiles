@@ -11,3 +11,7 @@ if [ -f ~/.colorrc ]; then
 	eval `dircolors ~/.colorrc`
 fi
 
+if [ -f ~/.bash_profile ]; then
+    . ~/.bash_profile
+fi
+

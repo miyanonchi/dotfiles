@@ -18,7 +18,6 @@ mkdrlnk() {
 
 mklnk vimrc
 mkdrlnk vim
-mklnk colorrc
 mklnk bashrc
 mklnk gitconfig
 mklnk bash_profile
