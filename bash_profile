@@ -12,6 +12,7 @@ source ~/dotfiles/git-prompt.sh
 export PS1='[\u@\h \W$(__git_ps1 " (\[\e[36m\e[40m\]%s\[\e[0m\])")]\$ '
 
 alias la='ls -al'
+alias ll='ls -al'
 alias less='less -R'
 alias grep='grep --color=auto'
 
